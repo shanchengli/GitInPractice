@@ -1,2 +1,3 @@
-Git In Practice - update 1
+Git In Practice - update 2
+
 
