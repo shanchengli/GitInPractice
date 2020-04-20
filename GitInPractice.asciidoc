@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Git In Practice - update 10 Update in master
+=======
+Git In Practice - update 9 in chapter-two again 
+
+
+>>>>>>> chapter-two
